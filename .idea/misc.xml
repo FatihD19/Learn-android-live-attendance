@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/FTH-file/Kuliyeah/LiveAttendanceApp/app/src/main/res/drawable/bg_brn_primary.xml" value="0.1" />
+        <entry key="..\:/FTH-file/Kuliyeah/LiveAttendanceApp/app/src/main/res/drawable/bg_edit_text.xml" value="0.1" />
+        <entry key="..\:/FTH-file/Kuliyeah/LiveAttendanceApp/app/src/main/res/layout/activity_login.xml" value="0.2" />
         <entry key="..\:/FTH-file/Kuliyeah/LiveAttendanceApp/app/src/main/res/layout/activity_splash.xml" value="0.24947916666666667" />
       </map>
     </option>
